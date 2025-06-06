@@ -9,7 +9,7 @@ namespace DeepSeekTest
      /// </summary>
     public static async void TeskConnect()
     {
-      var DEEPSEEK_API_KEY = "sk-835453322a2b4bfb96ef8294411372e9";
+      var DEEPSEEK_API_KEY = "";
 
         #pragma warning disable SKEXP0010 // 类型仅用于评估，在将来的更新中可能会被更改或删除。取消此诊断以继续。
       OpenAIChatCompletionService chatCompletionService = new(
