@@ -28,7 +28,7 @@ namespace DeepSeekTest
     public static async Task Test()
     {
       // Create a kernel with deepseek chat completion
-      var DEEPSEEK_API_KEY = "sk-835453322a2b4bfb96ef8294411372e9";
+      var DEEPSEEK_API_KEY = "";
       var GOOGLE_API_KEY = "AIzaSyAw_aNaAlf9F-wtgdZ12yt4zjkfEJNrNtU";
       // Prepare and build kernel  
       var builder = Kernel.CreateBuilder();
