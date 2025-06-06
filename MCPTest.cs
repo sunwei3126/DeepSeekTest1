@@ -8,7 +8,7 @@ namespace DeepSeekTest
   {
     public static async void Test()
     {
-      var DEEPSEEK_API_KEY = "sk-835453322a2b4bfb96ef8294411372e9";
+      var DEEPSEEK_API_KEY = "";
       // Prepare and build kernel  
       var builder = Kernel.CreateBuilder();
    
